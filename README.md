@@ -1,6 +1,6 @@
 # Blue-Collar-Dollar
 A community based XRPL/Stellar token project where your input and ideas are requested. 
-BCD is a publicly available 'private treasury token' equally available to us all on XRPL
+BCD is a publicly available 'private treasury token' equally available to us all on XRPL. 
 BCD belongs to us all. literally!
 Any transaction utilizing BCD token is a sovereign act of humanity
 There are many new possibilities in this space
