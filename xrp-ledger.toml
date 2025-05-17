@@ -1,1 +1,87 @@
+[METADATA]
+modified = 2025-05-17T15:27:00.000Z
+expires = 2030-12-31T23:59:59.000Z
+
+[[ACCOUNTS]]
+address_1 = "rMRo1ybMruxEkF4EgyEMpbjU95AqNnVHLF"
+network = "main"
+desc = ": Phoenix-Unchained.: Blue-Collar-Dollar.: Token-Issuer-Wallet-Address."
+
+[[ACCOUNTS]]
+address_2 = "rBCDoLL1GZah7QHordWomHvgDLqnZCCSpT"
+network = "main"
+desc = ": Blue-Collar-Dollar.: Public-Recognition.: RWA-Backing.: Holdings-Wallet-Address."
+
+[[ACCOUNTS]]
+address_3 = "rGDg74SgPsYTAoFPe8GktRazfJf7vegB8P"
+network = "main"
+desc = ": bcd.xrp-Webpage-Manager-Wallet-Address."
+
+[[ACCOUNTS]]
+address_4 = "rpaAH2xAT4c7BaFbLKAGokVtgBNkTZksfR"
+network = "main"
+desc = ": Blue-Collar-Dollar.: Token-Distribution/IDO-Wallet-Address."
+
+[[ACCOUNTS]]
+address_5 = "r4jjM4pU9noXP7RoAHuFwRWJbAHzVh9Vha"
+network = "main"
+desc = ": Blue-Collar-Dollar-AMM.: Pool-Address."
+
+[[ACCOUNTS]]
+address_6 = "rKL9XmSx8wBbCnvccBeg54JUSQszDh4HbT"
+network = "main"
+desc = ": Phoenix-Unchained.: Investment-Strtategy-Wallet-Address."
+
+[[ACCOUNTS]]
+address_7 = "rwxYfWmCm45pUnAVuqEWEPKW55gY1eJXkH"
+network = "main"
+desc = ": Phoenix-Unchained.: Crossmark-Browser-Wallet-Adress."
+
+[[ACCOUNTS]]
+address_8 = "rGkHHbprHXs7hoFVn32F1hE6kvAWCq3LsG"
+network = "main"
+desc = ": Phoenix-Unchained.: Metamask-wallet.xrplevm.org-Wallet-Address"
+
+[[ACCOUNTS]]
+address_9 = "rGjwhj9rrq6AjL4iJUU3XDR1dP1KN2vUcQ"
+network = "main"
+desc = ": Griffin-Shipping.: Post-Master-Mail-Shipping-Wallet-Address."
+
+[[ACCOUNTS]]
+address_10 = "rnj7E5c35ZQXDReP1xng4Gk3csFfemeoHd"
+network = "main"
+desc = ": Chad-Richard-Smith.: & Heirs: Primary-Family-Legacy-Account"
+
+[[ACCOUNTS]]
+address_11 = "ran2KA3qCWQvieWT18fmMrjBwSdT18fJRD"
+network = "main"
+desc = ": Smith-Family-Investments.: Gatehub-Wallet-Address"
+
+[[ACCOUNTS]]
+address_12 = "rp3YsxLQpxBXzykjdGhZ3TVyKrbyWFhxwm"
+network = "main"
+desc = ": Smith-Family-Investments.: Strategic-Relationships-Wallet-Address"
+
+address_13 = "rPSXiyNFLLkuAg2SBWxfgnv5sxWLYGwSPN"
+network = "main"
+desc = ": Smith-Family-Investments.: Tangem-Card.: Expense-Wallet-Address"
+
+[[PRINCIPLES]]
+name = ": Chad-Richard-Smith.: Post-Master-Live-Life-Claimant.: Neutral-Bank-Banker.: Phoenix-Unchained.: Griffin-Shipping."
+email = "phoenixunchained.x@ud.me"
+social_1 = "X = BCD.XRP_@BlueCollar888"
+social_2 = "X = PhoenixUnchained_@PhoenixUnchain"
+social_3 = "Discord = Blue Collar Dollar"
+social_4 = "TikTok = @phoenixunchained777"
+social_5 = "Facebook = Phoenix Unchained"
+social_6 = "Facebook = Blue Collar Dollar"
+social_7 = "LinkedIn = Chad Smith"
+social_8 = "telegram = @PhoenixUnchained_t.me/BlueCollarDollar"
+
+
+[[CURRENCIES]]
+code = "BCD"
+issuer = "rMRo1ybMruxEkF4EgyEMpbjU95AqNnVHLF"
+network = "main"
+display_decimals = 2
 
