@@ -80,6 +80,7 @@ social_8 = "telegram = @PhoenixUnchained_t.me/BlueCollarDollar"
 
 
 [[CURRENCIES]]
+name = "Blue_Collar_Dollar"
 code = "BCD"
 issuer = "rMRo1ybMruxEkF4EgyEMpbjU95AqNnVHLF"
 network = "main"
