@@ -1,6 +1,6 @@
 [METADATA]
 modified = 2025-05-17T15:27:00.000Z
-expires = 2030-12-31T23:59:59.000Z
+modified = 2025-05-18T16:03:00.000Z
 
 [[ACCOUNTS]]
 address_1 = "rMRo1ybMruxEkF4EgyEMpbjU95AqNnVHLF"
@@ -62,12 +62,13 @@ address_12 = "rp3YsxLQpxBXzykjdGhZ3TVyKrbyWFhxwm"
 network = "main"
 desc = ": Smith-Family-Investments.: Strategic-Relationships-Wallet-Address"
 
+[[ACCOUNTS]]
 address_13 = "rPSXiyNFLLkuAg2SBWxfgnv5sxWLYGwSPN"
 network = "main"
 desc = ": Smith-Family-Investments.: Tangem-Card.: Expense-Wallet-Address"
 
 [[PRINCIPLES]]
-name = ": Chad-Richard-Smith.: Post-Master-Live-Life-Claimant.: Neutral-Bank-Banker.: Phoenix-Unchained.: Griffin-Shipping."
+name = ": Chad-Richard-Smith.: Post-Master-Live-Life-Claimant.: Neutral-Bank-Banker.: Phoenix-Unchained.: Blue-Collar-Dollar.: Griffin-Shipping."
 email = "phoenixunchained.x@ud.me"
 social_1 = "X = BCD.XRP_@BlueCollar888"
 social_2 = "X = PhoenixUnchained_@PhoenixUnchain"
@@ -85,3 +86,4 @@ issuer = "rMRo1ybMruxEkF4EgyEMpbjU95AqNnVHLF"
 network = "main"
 display_decimals = 2
 
+end of file
