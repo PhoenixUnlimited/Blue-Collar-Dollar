@@ -1,6 +1,5 @@
 # Blue-Collar-Dollar 
 BCD is a publicly available 'private treasury token' equally available to us all on XRPL. 
-BCD belongs to us all. literally!
 Any transaction utilizing BCD token is a sovereign act of humanity
 There are many new possibilities in this space
 This webhook link is a vital step in our collective journey
