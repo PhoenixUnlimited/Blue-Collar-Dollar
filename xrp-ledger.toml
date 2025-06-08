@@ -1,5 +1,22 @@
 [METADATA]
-modified = 2025-05-18T16:03:00.000Z
+modified = 2025-06-07T20:33:00.000Z
+
+[[TOKENS]]
+name = "Blue_Collar_Dollar"
+code = "BCD"
+issuer = "rMRo1ybMruxEkF4EgyEMpbjU95AqNnVHLF"
+network = "main"
+display_decimals = 2
+
+[[TOKENS.WEBLINKS]]
+url = "https://bcd.xrp"
+type = "Web3 website"
+title = "Official Web3 Website"
+
+[[TOKENS.WEBLINKS]]
+url = "https://phoenixunchained.co"
+type = "Web2 Website"
+title = "Official Web2 Website"
 
 [[ACCOUNTS]]
 address_1 = "rMRo1ybMruxEkF4EgyEMpbjU95AqNnVHLF"
@@ -77,13 +94,5 @@ social_5 = "Facebook = Phoenix Unchained"
 social_6 = "Facebook = Blue Collar Dollar"
 social_7 = "LinkedIn = Chad Smith"
 social_8 = "telegram = @PhoenixUnchained_t.me/BlueCollarDollar"
-
-
-[[CURRENCIES]]
-name = "Blue_Collar_Dollar"
-code = "BCD"
-issuer = "rMRo1ybMruxEkF4EgyEMpbjU95AqNnVHLF"
-network = "main"
-display_decimals = 2
 
 # End of file
