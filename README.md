@@ -1,29 +1,28 @@
-# Blue-Collar-Dollar
-A community based XRPL/Stellar token project where your input and ideas are requested. 
+# Blue-Collar-Dollar 
 BCD is a publicly available 'private treasury token' equally available to us all on XRPL. 
 BCD belongs to us all. literally!
 Any transaction utilizing BCD token is a sovereign act of humanity
 There are many new possibilities in this space
-This webhook link is a new developement for the BCD project, This is a vital step in our collective journey
-I have not invested the time nor had the opportunity to put guardrails in here at this time
-Until that happens, respectful code writing cooperation is appreciated.
+This webhook link is a vital step in our collective journey
+Respectful code writing cooperation is a requirement to continue contributing to this web-space.
 Please treat this space as you would your own, because... This public space belongs to each of us equally.
-Until we put on more miles together, please be respectful and responsible in this space. 
-It is actually connected to the GitHub platform where we co-create and develop real-life infrastructure for Blue-Collar-Dollar.
-code writing is tricky for all of us. we all have lessons to learn from each other and knowledge to share.
-This space is designed to allow all members of this server, a better opportunity to safely and securely learn code writing,
-and develop an API utility for your BCD treasury, and also any XRPL token project where the issuer is connected to this discord server.
-For every BCD in circulation there is a corresponding amount of XRP/XAU in one of the 3 treasury wallets today and forever.
+Until we get to know each other together, please be respectful and responsible in this space. 
+This is actually the GitHub platform where we co-create and develop real-life infrastructure for Blue-Collar-Dollar and its utility dApps and projects.
+code writing can be tricky for all of us at times. we all have lessons to learn from each other and knowledge to share.
+This space is designed to allow all contributing members of this server, a better opportunity to safely and securely learn code writing and build the utility we can all utilize.
+The objective is to develop an API utility for your own BCD treasury, and also any XRPL issued token project where the token issuer is connected or associated to this discord server.
+For every BCD in circulation there is a corresponding amount of XRP or XAU in one of the 3 treasury wallets today and forever.
 Build your dreams here and the public will come!!!
 invest in BCD and the public will thrive!!!
 
-I am importing some basic tools and java script code for the ease of API development.
+I am importing some basic tools here in java script code for the ease of reference for API development.
+The following is not intended to be functional code writing. It is merely for educational purposes only:
 
 Some of these tools and code will not be very readable in preview text page. Those will need to be copy/pasted from code text page to your project files
 
 # The following is a library of constants in js for transaction information
 
-// *** Define HTML Form Fields **
+// *** Define HTML Form Fields ***
 
 const xls = document.getElementById("xls")
 
