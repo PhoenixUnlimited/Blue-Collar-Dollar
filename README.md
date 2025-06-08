@@ -16,7 +16,7 @@ Build your dreams here and the public will come!!!
 invest in BCD and the public will thrive!!!
 
 I am importing some basic tools here in java script code for the ease of reference for API development.
-The following is not intended to be functional code writing. It is merely for educational purposes only:
+The following is not intended to be functional code writing. It is merely for educational and reference purposes only:
 
 Some of these tools and code will not be very readable in preview text page. Those will need to be copy/pasted from code text page to your project files
 
